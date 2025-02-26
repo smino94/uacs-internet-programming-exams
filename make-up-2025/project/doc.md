@@ -6,6 +6,7 @@ This project is required in order to be able to take the make-up exam (unless ot
 
 Create a web application that allows users to manage recipes and create weekly meal plans. This project will demonstrate understanding of core Angular concepts while building a practical application.
 
+ ## testt
 ## Core Features
 
 ### 1. Recipe Management
